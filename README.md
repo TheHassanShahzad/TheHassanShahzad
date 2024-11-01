@@ -1,9 +1,4 @@
 - 👋 Hi, I’m Hassan Shahzad
-- 👀 I’m interested in Robotics and simulation 
-
-- 📫 How to reach me hshahzad0277@gmail.com
-
-<!---
-TheHassanShahzad/TheHassanShahzad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I am currently interested in Human Robot Machine interaction and making machines more user friendly
+- I am looking for people who are really good at niche things and out of the box thinkers to work with
+- 📫 Reach me hassan.shahzad.23@ucl.ac.uk
